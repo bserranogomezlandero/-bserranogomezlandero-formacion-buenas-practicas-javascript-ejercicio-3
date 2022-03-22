@@ -1,6 +1,6 @@
 // Este ejercicio consta de dos partes.
 //Primero, hay que añadir en los console.log vacíos los resultados que se mostrarán por consola al pulsar el botón de manera que cada resultado aparezca por duplicado (vosotros añadiréis el segundo resultado de cada par).
-// En el segundo apartado debéis modificar el código para mejorar el código siguiendo las buenas prácticas que acabamos de ver.
+// En el segundo apartado debéis modificar el código para mejorarlo aplicando las buenas prácticas que acabamos de ver.
 
 function showResults() {
   // Primera parte. Rellena los console.log vacíos
